@@ -1,0 +1,28 @@
+{
+  "name": "accessulus",
+  "version": "0.0.1",
+  "description": "WAI-ARIA 1.2 widgets with the Stimulus JavaScript framework.",
+  "keywords": [
+    "stimulus",
+    "stimulusjs",
+    "controller",
+    "components",
+    "widgets",
+    "aria"
+  ],
+  "homepage": "https://github.com/dsusco/accessulus",
+  "bugs": "https://github.com/dsusco/accessulus/issues",
+  "license": "ISC",
+  "author": "David Susco <dsusco@gmail.com> (https://github.com/dsusco)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dsusco/accessulus.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "@hotwired/stimulus": "^3.0.1"
+  }
+}
